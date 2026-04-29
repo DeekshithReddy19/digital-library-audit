@@ -3,7 +3,7 @@
 An Oracle 21c SQL project that tracks book loans in a college library
 and generates audit reports for overdue books, penalties, and inactive accounts.
 
-Built as part of the **Virtusa Pre-Training Internship Mini Project**.
+Built as part of the **Virtusa SQL Project**.
 
 ---
 
